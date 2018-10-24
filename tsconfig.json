@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "strictNullChecks": false,
+        "strictFunctionTypes": false,
+        "sourceMap": true,
+    },
+    "include": [
+        "index.ts"
+    ],
+    "exclude": [
+        "amcharts4",
+        "node_modules"
+    ]
+}
