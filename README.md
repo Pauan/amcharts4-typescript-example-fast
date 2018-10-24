@@ -1,0 +1,1 @@
+# amcharts4-typescript-fast
